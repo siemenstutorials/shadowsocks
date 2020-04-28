@@ -1,6 +1,7 @@
 One key install SSR
 
 step1:
+
 yum -y groupinstall "Development Tools"
 wget https://download.libsodium.org/libsodium/releases/libsodium-1.0.16.tar.gz
 tar xf libsodium-1.0.16.tar.gz && cd libsodium-1.0.16
